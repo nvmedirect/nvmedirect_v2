@@ -1,0 +1,14 @@
+*.d
+*.o
+*.ko
+*.so
+*.so.*
+*.mod*
+*.cmd
+*.swp
+modules.order
+Module.symvers
+tags
+utils/nvmed_admin
+example/nvmed_example/nvmed_example
+example/fio_plugin/nvmed_fio
